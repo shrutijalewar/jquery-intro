@@ -1,0 +1,25 @@
+.happy{
+color: pink;
+background-color: yellow;
+font-size: 50px;
+}
+
+.sad{
+color: blue;
+background-color: gray;
+font-size: 20px;
+}
+
+.box{
+  display: inline-block;
+  background-color: pink;
+  padding: 10px;
+  margin: 10px;
+  width: 75px;
+  border: 1px solid;
+  border-radius: 10px;
+}
+
+.even{
+background-color: yellow;
+}
